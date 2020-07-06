@@ -1,0 +1,8 @@
+{
+  "spotify_route": {
+      "api_base_url": "https://api.spotify.com",
+      "api_version": "v1",
+      "accounts_base_url": "https://accounts.spotify.com/api",
+      "code_to_credentials": "token"
+  }
+}
